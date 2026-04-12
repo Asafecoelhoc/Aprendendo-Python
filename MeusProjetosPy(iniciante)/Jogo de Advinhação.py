@@ -12,5 +12,5 @@ while jogador != computador:
             print('Menos... Tente mais uma vez')
     jogador = int(input('Qual é o seu palpite? '))
     tentativas += 1
-print('Parabéns você acertou!')
+print('Parabéns, você acertou!')
 print(f'O número de tentativas para acertar foi {tentativas + 1}')
