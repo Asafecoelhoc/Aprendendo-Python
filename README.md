@@ -1,2 +1,2 @@
-# Curso em Vídeo
-Meu primeiro repositório do curso de Git e GitHub
+# Python-(Iniciante)
+Meu primeiro repositório servindo para mostrar minha evolução em Python
