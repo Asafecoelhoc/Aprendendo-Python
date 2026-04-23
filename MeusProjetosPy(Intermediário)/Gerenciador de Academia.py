@@ -79,7 +79,7 @@ while True:
 
             print('=' * 30)
 
-            continuar = str(input('Deseja cadastrar outro aluno? [S/N] ')).upper().strip()
+            continuar = str(input('Deseja cadastrar outro aluno? [S/N] ')).upper().strip()[0]
 
             while True:
                 if continuar == 'N':
